@@ -1,16 +1,22 @@
-# first_app
+# Dice Roller App
 
-A new Flutter project.
+## Overview
+
+Flutter Dice Roller app - simple and straightforward mobile application is designed for one purpose and one purpose only – rolling dice. 
+
+## Screenshots
+
+![Screen](https://github.com/never47/flutter-roll-dice-app/assets/120058681/2f51279a-9be4-49cd-bafc-c02588ec60f2)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed on your machine
+- An emulator or a physical device to run the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/never47/flutter-roll-dice-app.git
+```
